@@ -2,7 +2,7 @@
 
 LINENVELOPE is software for bounding time series data with a piecewise linear band.
 
-NOTE: TASLE is an algorithm for the same purpose which is an improvement over LINENVELOPE.
+<strong>NOTE: TASLE is an algorithm for the same purpose which is an improvement over LINENVELOPE.</strong>
 
 Copyright 2008 Allan Willms.
 
