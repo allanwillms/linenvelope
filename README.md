@@ -10,11 +10,8 @@ This C software source code is distributed under the GNU General Public License,
 
 Bug reports and comments should be sent to Allan Willms.
 ## Download
-Both the following compressed files contain linenvelope.c, linenvelope.h, and GNU_GPL.txt.
-<ul>
-  <li>  linenvelope.tar.gz (16 KB)
-  <li>  linenvelope.zip (17 KB) 
-</ul>
+There are just two files: linenvelope.c and linenvelope.h.
+
 ## Description
 LINENVELOPE constructs a piecewise linear band (two piecewise linear curves differing by a constant vertical offset) which bounds a given data set {(t i, y i)}. The quality of the fit is governed by two parameters, one which defines when two adjacent step discontinuities in the slope in opposite directions are considered "close", and the other which defines the maximum number of such close points.
 
