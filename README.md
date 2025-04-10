@@ -19,7 +19,3 @@ The algorithm is described in
 
 - A.R. Willms, Bounding data with a piecewise linear band, SIAM J. Sci. Comput. 31 (3) (2009) 2361-2367. 
 
-[!IMPORTANT]
-This is a test
-
-Now more material.
