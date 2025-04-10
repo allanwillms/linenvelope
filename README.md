@@ -16,8 +16,7 @@ There are just two files: linenvelope.c and linenvelope.h.
 LINENVELOPE constructs a piecewise linear band (two piecewise linear curves differing by a constant vertical offset) which bounds a given data set {(t i, y i)}. The quality of the fit is governed by two parameters, one which defines when two adjacent step discontinuities in the slope in opposite directions are considered "close", and the other which defines the maximum number of such close points.
 
 The algorithm is described in
-<ul>
- <li>  A.R. Willms, Bounding data with a piecewise linear band, SIAM J. Sci. Comput. 31 (3) (2009) 2361-2367. 
+
+- A.R. Willms, Bounding data with a piecewise linear band, SIAM J. Sci. Comput. 31 (3) (2009) 2361-2367. 
   [!NOTE]
   This is a test
- </ul>
