@@ -18,4 +18,6 @@ LINENVELOPE constructs a piecewise linear band (two piecewise linear curves diff
 The algorithm is described in
 <ul>
  <li>  A.R. Willms, Bounding data with a piecewise linear band, SIAM J. Sci. Comput. 31 (3) (2009) 2361-2367. 
+  [!NOTE]
+  This is a test
  </ul>
