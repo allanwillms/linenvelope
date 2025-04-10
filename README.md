@@ -1,6 +1,7 @@
 # linenvelope
 
-<strong>This software is obsolete: LinearBand.jl is an algorithm for the same purpose which is an improvement over LINENVELOPE.</strong>
+[!IMPORTANT]
+This software is obsolete: LinearBand.jl is an algorithm for the same purpose which is an improvement over LINENVELOPE.
 
 LINENVELOPE is software for bounding time series data with a piecewise linear band.
 
